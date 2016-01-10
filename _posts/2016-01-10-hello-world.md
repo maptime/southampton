@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Woohoo...we finally have a site!
+author: Charley
 ---
 
 So, it may be well be 14 months late, but like they say, "better late than never." Finally Maptime Southampton has a website.
