@@ -6,7 +6,7 @@ repo: starter
 github_org: maptime
 maptime:
   chapter: Maptime Southampton
-  twitter: @MaptimeSOTON
+  twitter: MaptimeSOTON
   #disqus: YOUR DISQUS USERNAME
 
 gems:
